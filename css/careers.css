@@ -9,6 +9,27 @@
     transition: all .2s linear;
     text-decoration: none;
 }
+.cv-share {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.cv-share p {
+    margin: 0;
+}
+
+.cv-email {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.cv-email:hover {
+    text-decoration: underline;
+}
 
 html{
     font-size: 62.5%;
